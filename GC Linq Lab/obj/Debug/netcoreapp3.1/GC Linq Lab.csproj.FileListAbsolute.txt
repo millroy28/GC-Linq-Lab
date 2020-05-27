@@ -1,0 +1,13 @@
+C:\Users\millr\source\repos\GC Linq Lab\GC Linq Lab\bin\Debug\netcoreapp3.1\GC Linq Lab.exe
+C:\Users\millr\source\repos\GC Linq Lab\GC Linq Lab\bin\Debug\netcoreapp3.1\GC Linq Lab.deps.json
+C:\Users\millr\source\repos\GC Linq Lab\GC Linq Lab\bin\Debug\netcoreapp3.1\GC Linq Lab.runtimeconfig.json
+C:\Users\millr\source\repos\GC Linq Lab\GC Linq Lab\bin\Debug\netcoreapp3.1\GC Linq Lab.runtimeconfig.dev.json
+C:\Users\millr\source\repos\GC Linq Lab\GC Linq Lab\bin\Debug\netcoreapp3.1\GC Linq Lab.dll
+C:\Users\millr\source\repos\GC Linq Lab\GC Linq Lab\bin\Debug\netcoreapp3.1\GC Linq Lab.pdb
+C:\Users\millr\source\repos\GC Linq Lab\GC Linq Lab\obj\Debug\netcoreapp3.1\GC Linq Lab.csprojAssemblyReference.cache
+C:\Users\millr\source\repos\GC Linq Lab\GC Linq Lab\obj\Debug\netcoreapp3.1\GC Linq Lab.AssemblyInfoInputs.cache
+C:\Users\millr\source\repos\GC Linq Lab\GC Linq Lab\obj\Debug\netcoreapp3.1\GC Linq Lab.AssemblyInfo.cs
+C:\Users\millr\source\repos\GC Linq Lab\GC Linq Lab\obj\Debug\netcoreapp3.1\GC Linq Lab.csproj.CoreCompileInputs.cache
+C:\Users\millr\source\repos\GC Linq Lab\GC Linq Lab\obj\Debug\netcoreapp3.1\GC Linq Lab.dll
+C:\Users\millr\source\repos\GC Linq Lab\GC Linq Lab\obj\Debug\netcoreapp3.1\GC Linq Lab.pdb
+C:\Users\millr\source\repos\GC Linq Lab\GC Linq Lab\obj\Debug\netcoreapp3.1\GC Linq Lab.genruntimeconfig.cache

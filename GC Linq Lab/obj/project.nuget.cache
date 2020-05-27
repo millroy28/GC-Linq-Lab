@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "6hhSN0vHwQm2uJ/jQImkv1fj/ZXhzcYPj/7In6Px7VvOdcgOFAsmYFpHnrg5hiTH+BLl7b+4SiVCZyb76XYeYg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\millr\\source\\repos\\GC Linq Lab\\GC Linq Lab\\GC Linq Lab.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\millr\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}
